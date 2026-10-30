@@ -1,0 +1,8 @@
+{
+  "name": "genpark-bloom-filter-and-probabilistic-membership-tester-skill",
+  "version": "1.0.0",
+  "description": "Memory-efficient Bloom filter, probabilistic set membership tester, and false-positive rate optimizer",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
